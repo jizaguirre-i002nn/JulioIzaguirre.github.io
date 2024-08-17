@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.conteiner{
+    background-color: cadetblue;
+    text-align: center;
+    padding: 5px;
+}
+
+.imagen-perfil{
+    width: 400px;
+    height: auto;
+    border-radius: 60%;
+}
+
+p{
+    
+    font-size: 3em;
+    font-weight: bold;
+    color: #333;
+}
+
+.facebook{
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    margin-top: 90px;
+    font-size: 3em;
+
+}
+.facebook svg{
+    margin-right: 20px;
+}
+
+.telefono{
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    margin-top: 90px;
+    font-size: 3em;
+}
+.telefono svg{
+    margin-right: 20px;
+}
+
+.in{
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+    font-size: 1em;
+}
+
+.x{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+.cronologia{
+    
+    text-align: center;
+    padding: 60px;
+}
+
+.format-text-timeline {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+}
+.icono-timeline {
+    max-width: 20%; 
+    height: auto; 
+}
+
+.format-text-timeline p {
+    color: #fff;
+    padding: 10px; 
+}
+
+.icono-habilidades{
+    max-width: 100%; 
+    height: auto; 
+
+}
+.icono-git{
+    max-width: 60%; 
+    height: auto; 
+}
+
